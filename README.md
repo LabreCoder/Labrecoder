@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi there 👋<br><br>I'm Labre 👨‍💻<br>Student of Cybersecurity and Networks, always learning and building things step by step.<br><br>    🌱 Currently learning: Networking, Linux, Cybersecurity and Python<br>    🔭 Working on: small projects to practice automation and network monitoring<br>    🤝 Open to collaborate on: beginner-friendly tech projects<br>    💬 Ask me about: Linux basics, networking fundamentals, Python<br>    📫 How to reach me: LinkedIn / GitHub<br>    ⚡ Fun fact: I learn best by breaking things and fixing them 😄<br>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jvlabre) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-victor-labre) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/joovictorlabre/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jvlabremachado@gmail.com) 
 

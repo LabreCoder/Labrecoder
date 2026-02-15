@@ -13,7 +13,9 @@ Ainda não testei kakakak
 
 Ainda não akkakakaka
 
-Ainda não-->
+Ainda não
+
+Ainda n-->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LabreCoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

@@ -17,8 +17,8 @@ Hi there 👋<br><br>I'm Labre 👨‍💻<br>Student of Cybersecurity and Netwo
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 -->
-
+<!-- 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LabreCoder&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=LabreCoder&limit=5&theme=gotham&combine_all_yearly_contributions=true) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

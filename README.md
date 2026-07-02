@@ -3,20 +3,20 @@
   <!-- Nome no canto esquerdo + GIF pessoal no canto direito -->
   <table>
     <tr>
-      <td align="left" width="65%">
+      <td align="left" width="70%">
         <h1>Hi, I'm João Victor Labre 👋</h1>
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=39FF14&background=0D1117&center=false&vCenter=true&width=900&height=100&lines=joao%40labrecoder%3A~%24+whoami;%3E+Curious+to+learn.+Always+searching+for+something+new+to+learn!;%3E+Cybersecurity+%7C+Pentester+%7C+CTF+%7C+Forense;joao%40labrecoder%3A~%24+cat+target.txt;%3E+Work+as+Cybersecurity+Analyst_" alt="Typing SVG - João Victor Labre">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1200&color=39FF14&background=0D1117&center=false&vCenter=true&width=900&height=100&lines=joao%40labrecoder%3A~%24+whoami;%3E+Curious+to+learn.+Always+searching+for+something+new+to+learn!;%3E+Cybersecurity+%7C+Pentester+%7C+CTF+%7C+Forense;joao%40labrecoder%3A~%24+cat+target.txt;%3E+Work+as+Cybersecurity+Analyst_" alt="Typing SVG - João Victor Labre">
         </a>
       </td>
-      <td align="right" width="35%">
+      <td align="right" width="30%">
         <!--
           TODO: substituir pelo GIF com a sua cara quando estiver pronto.
           Sugestão de tamanho: width="200" para não desequilibrar o cabeçalho.
           Exemplo:
           <img width="200" src="LINK_DO_SEU_GIF_AQUI">
         -->
-        <img width="400" src="https://raw.githubusercontent.com/LabreCoder/LabreCoder/main/assets/cyber.gif">
+        <img width="300" src="https://raw.githubusercontent.com/LabreCoder/LabreCoder/main/assets/cyber.gif">
       </td>
     </tr>
   </table>

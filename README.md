@@ -16,7 +16,7 @@
           Exemplo:
           <img width="200" src="LINK_DO_SEU_GIF_AQUI">
         -->
-        <img width="200" src="https://raw.githubusercontent.com/LabreCoder/LabreCoder/main/assets/cyber.gif">
+        <img width="400" src="https://raw.githubusercontent.com/LabreCoder/LabreCoder/main/assets/cyber.gif">
       </td>
     </tr>
   </table>

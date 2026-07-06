@@ -20,8 +20,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%2300FFFF
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300FFFF
+        env:
+          # Permite que a cobrinha leia suas contribuições privadas (se configurado o Passo 1)
+          # Se não quiser criar o PAT, pode manter como GITHUB_TOKEN, mas só lerá dados públicos.
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN || secrets.GITHUB_TOKEN }}
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

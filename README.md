@@ -73,10 +73,9 @@
 ## Github Stats
 
 <div align="center">
-  <img height="180em" width="48%" src="https://github-readme-stats-tan-rho-95.vercel.app/api/top-langs/?username=LabreCoder&layout=compact&theme=tokyonight&cache_seconds=86400"/>
-  <img height="180em" width="48%" src="https://github-readme-stats-tan-rho-95.vercel.app/api?username=LabreCoder&show_icons=true&theme=tokyonight&cache_seconds=86400&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-tan-rho-95.vercel.app/api/top-langs/?username=LabreCoder&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-tan-rho-95.vercel.app/api?username=LabreCoder&theme=tokyonight&v=refresh_1"/>
 </div>
-
 ---
 
 ### 🐍 GitHub Contribution Snake
@@ -85,11 +84,6 @@
   <img src="https://raw.githubusercontent.com/LabreCoder/LabreCoder/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
   <img src="https://raw.githubusercontent.com/LabreCoder/LabreCoder/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </p>
-
-<!--
-  IMPORTANTE: essa cobrinha só aparece depois de você configurar a GitHub Action.
-  Veja o passo a passo que te mandei na mensagem junto com este arquivo.
--->
 
 ---
 

@@ -73,8 +73,8 @@
 ## Github Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-tan-rho-95.vercel.app/api/top-langs/?username=LabreCoder&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats-tan-rho-95.vercel.app/api?username=LabreCoder&theme=tokyonight&v=refresh_1"/>
+  <img height="180em" src="https://github-readme-stats-tan-rho-95.vercel.app/api/top-langs/?username=LabreCoder&layout=compact&theme=tokyonight&cache_seconds=1800&v=2"/>
+  <img height="180em" src="https://github-readme-stats-tan-rho-95.vercel.app/api?username=LabreCoder&theme=tokyonight&cache_seconds=1800&v=2"/>
 </div>
 
 ---

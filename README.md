@@ -28,7 +28,7 @@
 
 ### I am...
 💻 **TI Intership @ Biosys**\
-🎓 Systems of Information — 5º period (UFF)\
+🎓 Systems of Information — 5th semester (UFF)\
 ☕ Learning: Cybersecurity (Cisco Networking Academy & TryHackMe) | Java | Python | Docker
 
 <a href="https://tryhackme.com/p/LabreCoder">

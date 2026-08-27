@@ -27,7 +27,7 @@
 ![](https://komarev.com/ghpvc/?username=LabreCoder&color=blueviolet&style=flat)\-->
 
 ### I am...
-💻 **TI Intership @ Biosys**\
+💻 **TI Intern @ Biosys**\
 🎓 Systems of Information — 5th semester (UFF)\
 ☕ Learning: Cybersecurity (Cisco Networking Academy & TryHackMe) | Java | Python | Docker
 
